@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint_num_1">First number</string>
+    <string name="hint_num_2">Second number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
